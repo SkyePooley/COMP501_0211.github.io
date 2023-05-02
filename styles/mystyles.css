@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: Palatino;
   background-color: #f4f5f7;
   height: 100%;
   line-height: 1.4;
@@ -59,11 +59,13 @@ ul.menu {
 li.horizontal{
   display: inline;
   margin: 5px;
+  font-family: Helvetica;
 }
 
 a.menu {
   color:inherit;
   text-decoration: none;
+  margin-right: 5px;
 }
 
 /* table styles */
