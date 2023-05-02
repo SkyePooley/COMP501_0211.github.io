@@ -53,7 +53,12 @@ p {
 
 }
 
-p.extra_small{
+p.image_subtitle {
+  font-weight: bold;
+  font-size: 11pt;
+}
+
+p.extra_small {
     font-size: 10pt;
     text-align: left;
 }
@@ -66,7 +71,7 @@ hr {
 }
 
 ul.menu {
-  padding: 0px;
+  margin: 6px;
 }
 
 li.horizontal{
@@ -81,7 +86,7 @@ a.menu {
   margin-right: 5px;
 }
 
-a:hover {
+a.menu:hover {
   text-shadow:0px 0px 1px black;
 }
 
