@@ -50,7 +50,8 @@ h5 {
 p {
   font-size: 13.5pt;
   text-align:justify;
-
+  margin-top: 3px;
+  margin-bottom: 10px;
 }
 
 p.image_subtitle {
