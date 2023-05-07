@@ -40,6 +40,16 @@ h1 {
 
 }
 
+h2 {
+  margin-top: 20pt;
+  margin-bottom: 2pt;
+}
+
+h3 {
+  margin-top: 15pt;
+  margin-bottom: 6pt;
+}
+
 h5 {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
