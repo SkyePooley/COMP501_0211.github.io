@@ -64,6 +64,10 @@ p {
   margin-bottom: 12px;
 }
 
+p.center {
+   text-align: center;
+}
+
 p.image_subtitle {
   font-weight: bold;
   font-size: 11pt;
