@@ -26,6 +26,7 @@ article {
   min-width: 800px;
   background-color: #fefefe;
   color: #333;
+  box-shadow: 3px 3px 10px rgb(168, 168, 168);
 }
 
 div.main {
