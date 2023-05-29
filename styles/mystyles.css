@@ -35,6 +35,11 @@ div.main {
   margin: 0px;
 }
 
+div.content {
+  padding: 35pt;
+  padding-top: 7pt;
+}
+
 /* Item styles */
 
 h1 {
@@ -46,6 +51,7 @@ h1 {
 }
 
 h2 {
+  font-size: 24pt;
   margin-top: 20pt;
   margin-bottom: 2pt;
 }
@@ -63,10 +69,10 @@ h5 {
 }
 
 p {
-  font-size: 13.5pt;
+  font-size: 14pt;
   text-align:justify;
-  margin-top: 5px;
-  margin-bottom: 12px;
+  margin-top: 4px;
+  margin-bottom: 17px;
 }
 
 p.center {
