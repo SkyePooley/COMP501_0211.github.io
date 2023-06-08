@@ -100,6 +100,10 @@ ul.menu {
   margin: 6px;
 }
 
+li {
+  margin-bottom: 10px;
+}
+
 li.horizontal{
   display: inline;
   margin: 5px;
