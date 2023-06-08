@@ -1,7 +1,7 @@
 body {
   font-family: Palatino;
   /*background-color: #f4f5f7;*/
-  background-image: linear-gradient(#fffcdc, #d9a7c7);
+  background-image: linear-gradient(#fffcdc, hsl(322, 49%, 71%));
   height: 100%;
   line-height: 1.4;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ article {
   min-width: 800px;
   background-color: #fefefe;
   color: #333;
-  box-shadow: 3px 3px 10px rgb(168, 168, 168);
+  box-shadow: 3px 3px 10px rgb(152, 152, 152);
 }
 
 div.main {
