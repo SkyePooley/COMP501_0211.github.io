@@ -41,6 +41,15 @@ div.content {
   padding-bottom: 30pt;
 }
 
+div.reference {
+  font-size: 11pt;
+  padding-left: 36px;
+  text-indent: -36px;
+  margin-left: 40pt;
+  margin-right: 40pt;
+  margin-top: 20pt;
+}
+
 /* Item styles */
 
 h1 {
@@ -96,6 +105,10 @@ p.image_subtitle {
 p.extra_small {
     font-size: 11pt;
     text-align: left;
+}
+
+p.reference {
+  font-size: 11pt;
 }
 
 hr {
