@@ -109,6 +109,7 @@ p.extra_small {
 
 p.reference {
   font-size: 11pt;
+  text-align: left;
 }
 
 hr {
